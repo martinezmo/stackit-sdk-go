@@ -12,7 +12,7 @@ replace github.com/stackitcloud/stackit-sdk-go/core => ../../core
 require (
 	github.com/stackitcloud/stackit-sdk-go/core v0.27.0
 	github.com/stackitcloud/stackit-sdk-go/services/albwaf v0.13.4
-	github.com/stackitcloud/stackit-sdk-go/services/automation v0.1.1
+	github.com/stackitcloud/stackit-sdk-go/services/automation v0.2.0
 )
 
 require (
